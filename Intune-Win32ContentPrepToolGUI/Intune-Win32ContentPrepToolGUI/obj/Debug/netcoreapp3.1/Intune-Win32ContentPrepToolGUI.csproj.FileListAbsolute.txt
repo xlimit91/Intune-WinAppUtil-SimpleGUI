@@ -1,0 +1,16 @@
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\bin\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.exe
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\bin\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.deps.json
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\bin\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.runtimeconfig.json
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\bin\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.runtimeconfig.dev.json
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\bin\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.dll
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\bin\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.pdb
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\obj\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.csproj.AssemblyReference.cache
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\obj\Debug\netcoreapp3.1\Intune_Win32ContentPrepToolGUI.Form1.resources
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\obj\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.csproj.GenerateResource.cache
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\obj\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\obj\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.AssemblyInfoInputs.cache
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\obj\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.AssemblyInfo.cs
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\obj\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.csproj.CoreCompileInputs.cache
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\obj\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.dll
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\obj\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.pdb
+C:\Users\agr\Downloads\Intune-Win32ContentPrepToolGUI\Intune-Win32ContentPrepToolGUI\obj\Debug\netcoreapp3.1\Intune-Win32ContentPrepToolGUI.genruntimeconfig.cache

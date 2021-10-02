@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Intune-Win32ContentPrepToolGUI/1.0.0": {
+        "runtime": {
+          "Intune-Win32ContentPrepToolGUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intune-Win32ContentPrepToolGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
