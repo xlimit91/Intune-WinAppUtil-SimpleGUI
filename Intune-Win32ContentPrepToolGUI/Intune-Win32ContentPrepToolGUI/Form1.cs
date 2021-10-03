@@ -102,7 +102,7 @@ namespace Intune_Win32ContentPrepToolGUI
             // check if textboxes are not empty and the selected folders/files exist
             if (!string.IsNullOrEmpty(textBox1.Text) && 
                 !string.IsNullOrEmpty(textBox2.Text) && 
-                !string.IsNullOrEmpty(textBox2.Text))
+                !string.IsNullOrEmpty(textBox3.Text))
             {
                 button4.Enabled = true;
             }
