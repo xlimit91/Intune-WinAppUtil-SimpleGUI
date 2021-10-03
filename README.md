@@ -4,3 +4,7 @@ Simple GUI for the Intune WinAppUtil Tool [(Microsoft Win32 Content Prep Tool)](
 Easy to use GUI to create Win32 Applications (.intunewin) to upload in Intune/Endpoint Manager.
 
 ![GUI-Preview](https://raw.githubusercontent.com/xlimit91/Intune-WinAppUtil-SimpleGUI/main/Form1.png?token=AF5SLUEKVNKPVIROGBJFPW3BLBKWQ)
+
+How to use:
+
+![How-to-use](https://raw.githubusercontent.com/xlimit91/Intune-WinAppUtil-SimpleGUI/main/Form1.gif)
